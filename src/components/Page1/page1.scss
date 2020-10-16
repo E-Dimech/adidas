@@ -1,0 +1,12 @@
+.page1 {
+    &__screen {
+        position: relative;
+    }
+    &__button {
+        width: 50px;
+        border: 1px solid white;
+        position: absolute;
+        top: 0;
+        margin-top: 5%;
+    }
+}
