@@ -2,67 +2,27 @@
   width: 100%;
   margin-left: 0;
   margin-right: 0;
+  box-sizing: border-box;
 
-  //   &__images {
-  //     width: 70px;
-  //   }
-  &__shoe {
+  &__images-black {
+    padding-top: 2px;
+  }
+  &__shoe-page {
     width: 350px;
     position: relative;
   }
   &__leaf-white {
     position: absolute;
     width: 20px;
-    top: 335px;
-    left: 26%;
+    top: 336px;
+    left: 26.15%;
   }
   &__leaf {
     width: 20px;
     position: absolute;
     top: 335px;
-    left: 55.3%;
+    left: 55.35%;
   }
-  &__leaf-orange {
-    width: 20px;
-    position: absolute;
-    top: 335px;
-    left: 84.3%;
-  }
-  &__info-white {
-    width: 20px;
-    position: absolute;
-    top: 357px;
-    left: 26%;
-  }
-  &__info {
-    width: 20px;
-    position: absolute;
-    top: 357px;
-    left: 55.3%;
-  }
-  &__info-orange {
-    width: 20px;
-    position: absolute;
-    top: 357px;
-    left: 84.3%;
-  }
-  &__leaf-dna {
-    width: 20px;
-    position: absolute;
-    top: 335px;
-    left: 113.5%;
-  }
-  &__info-dna {
-    width: 20px;
-    position: absolute;
-    top: 357px;
-    left: 113.5%;
-  }
-}
-
-.header-navbar {
-  width: 500px;
-  height: 300px;
 }
 
 .card-display {
