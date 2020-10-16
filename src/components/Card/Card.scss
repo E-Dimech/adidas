@@ -1,0 +1,31 @@
+.card {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  box-sizing: border-box;
+
+  &__images-black {
+    padding-top: 2px;
+  }
+  &__shoe-page {
+    width: 350px;
+    position: relative;
+  }
+  &__leaf-white {
+    position: absolute;
+    width: 20px;
+    top: 336px;
+    left: 26.15%;
+  }
+  &__leaf {
+    width: 20px;
+    position: absolute;
+    top: 335px;
+    left: 55.35%;
+  }
+}
+
+.card-display {
+  display: flex;
+  flex-direction: row;
+}
