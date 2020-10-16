@@ -2,7 +2,7 @@ import React from "react";
 import Modal from "./Modal/Modal";
 import Leaf from "../../assets/icons/leaf.png";
 import Info from "../../assets/icons/info.svg";
-import White from "../../assets/shoes/WhiteShoe.png";
+import First from "../../assets/icons/page1.png";
 
 import "./Card.scss";
 
@@ -31,7 +31,7 @@ class Card extends React.Component {
             <div className="card__images">
               <img
                 className="card__shoe-page"
-                src={White}
+                src={First}
                 alt="sustainable shoe"
               />
               <img className="card__leaf-white" src={Leaf} alt="leaf" />
