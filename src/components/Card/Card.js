@@ -1,11 +1,10 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Modal from "../Modal/Modal";
 import Leaf from "../../assets/icons/leaf.png";
 import Info from "../../assets/icons/info.svg";
 import First from "../../assets/icons/page1.png";
-
 import "./Card.scss";
-import { Link } from "react-router-dom";
 
 class Card extends React.Component {
   state = {
