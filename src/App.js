@@ -1,3 +1,4 @@
+
 import React from "react";
 import Card from "./components/Card/Card";
 import "./App.css";
@@ -5,7 +6,11 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+
       <Card />
+      {/* <Modal /> */}
+      {/* <PrimeBlueModal /> */}
+    
     </div>
   );
 }
