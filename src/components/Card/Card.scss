@@ -4,28 +4,34 @@
   margin-right: 0;
   box-sizing: border-box;
 
-  &__images-black {
+  &__images {
     padding-top: 2px;
   }
   &__shoe-page {
     width: 350px;
     position: relative;
   }
-  &__leaf-white {
-    position: absolute;
-    width: 20px;
-    top: 336px;
-    left: 26.15%;
-  }
   &__leaf {
-    width: 20px;
+    width: 25px;
     position: absolute;
-    top: 335px;
-    left: 55.35%;
+    top: 394px;
+    left: 49%;
   }
-}
-
-.card-display {
-  display: flex;
-  flex-direction: row;
+  &__info {
+    width: 25px;
+    position: absolute;
+    top: 394px;
+    left: 51%;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  &__link {
+    width: 300px;
+    height: 55px;
+    // border: solid 1px blue;
+    position: absolute;
+    left: 40.7%;
+    top: 445px;
+  }
 }

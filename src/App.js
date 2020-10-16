@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-// import Card from './components/Card/Card';
+import Card from './components/Card/Card';
 import Page1 from './components/Page1/Page1';
 import Page2 from './components/Page2/Page2';
 import Page3 from './components/Page3/Page3';
@@ -14,7 +14,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Switch>
-          {/* <Route path='/' component={Card}/> */}
+          <Route path='/' component={Card}/>
           <Route path='/1' component={Page1}/>
           <Route path='/2' component={Page2}/>
           <Route path='/3' component={Page3}/>
