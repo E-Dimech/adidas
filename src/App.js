@@ -1,16 +1,9 @@
-<<<<<<< HEAD
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 // import Card from './components/Card/Card';
 import Page1 from './components/Page1/Page1';
-=======
-import React from "react";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
-import Card from "./components/Card/Card";
-import Page1 from "./components/Page1/Page1";
->>>>>>> cb00f29204ea98b073a93a9945aa0168bd2de748
-// import Page2 from './components/Page2/Page2';
-// import Page3 from './components/Page3/Page3';
+import Page2 from './components/Page2/Page2';
+import Page3 from './components/Page3/Page3';
 // import Page4 from './components/Page4/Page4';
 // import Page5 from './components/Page5/Page5';
 // import Page6 from './components/Page6/Page6';
@@ -21,18 +14,13 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Switch>
-<<<<<<< HEAD
           {/* <Route path='/' component={Card}/> */}
           <Route path='/1' component={Page1}/>
-=======
-          <Route path="/" component={Card} />
-          <Route path="/1" component={Page1} />
->>>>>>> cb00f29204ea98b073a93a9945aa0168bd2de748
-          {/* <Route path='/2' component={Page2}/>
+          <Route path='/2' component={Page2}/>
           <Route path='/3' component={Page3}/>
-          <Route path='/4' component={Page4}/>
+          {/* <Route path='/4' component={Page4}/>
           <Route path='/5' component={Page5}/>
-          <Route path='/6' component={Page6}/> */}
+          <Route path='/6' component={Page6}/>  */}
         </Switch>
       </div>
     </BrowserRouter>
