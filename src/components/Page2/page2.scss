@@ -1,20 +1,19 @@
 .page2 {
-    &__screen {
-        position: relative;
-    }
-    &__button {
-        width: 3.9%;
-        height: 0.65vw;
-        border: 1px solid red;
-        position: absolute;
-        top: 0;
-        margin-top: 13.25%;
-        left: 0;
-        margin-left: 48.2%;
-        
-        &:hover {
-            cursor: pointer;
-        }
-    }
+  &__screen {
+    position: relative;
+  }
+  &__button {
+    width: 5.75%;
+    height: 1.1vw;
+    // border: 1px solid red;
+    position: absolute;
+    top: 0;
+    margin-top: 17.15%;
+    left: 0;
+    margin-left: 47.3%;
 
+    &:hover {
+      cursor: pointer;
+    }
+  }
 }

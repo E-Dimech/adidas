@@ -7,9 +7,9 @@ function Page1() {
   return (
     <div className="page1">
       <img src={page2} alt="Page 1" className="page1__screen" />
-      {/* <Link to='/2'> */}
-      <div className="page1__button" />
-      {/* </Link> */}
+      <Link to="/2">
+        <div className="page1__button" />
+      </Link>
     </div>
   );
 }
