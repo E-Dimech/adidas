@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/4d-hackathon-adidas/static/css/main.9972bb99.chunk.css",
+    "main.js": "/4d-hackathon-adidas/static/js/main.69cc5a1b.chunk.js",
+    "main.js.map": "/4d-hackathon-adidas/static/js/main.69cc5a1b.chunk.js.map",
+    "runtime-main.js": "/4d-hackathon-adidas/static/js/runtime-main.a3370d72.js",
+    "runtime-main.js.map": "/4d-hackathon-adidas/static/js/runtime-main.a3370d72.js.map",
+    "static/js/2.6ecb3285.chunk.js": "/4d-hackathon-adidas/static/js/2.6ecb3285.chunk.js",
+    "static/js/2.6ecb3285.chunk.js.map": "/4d-hackathon-adidas/static/js/2.6ecb3285.chunk.js.map",
+    "index.html": "/4d-hackathon-adidas/index.html",
+    "precache-manifest.647c365741f3a49f406ba03be3550bad.js": "/4d-hackathon-adidas/precache-manifest.647c365741f3a49f406ba03be3550bad.js",
+    "service-worker.js": "/4d-hackathon-adidas/service-worker.js",
+    "static/css/main.9972bb99.chunk.css.map": "/4d-hackathon-adidas/static/css/main.9972bb99.chunk.css.map",
+    "static/js/2.6ecb3285.chunk.js.LICENSE.txt": "/4d-hackathon-adidas/static/js/2.6ecb3285.chunk.js.LICENSE.txt",
+    "static/media/close.svg": "/4d-hackathon-adidas/static/media/close.c44f8750.svg",
+    "static/media/info.svg": "/4d-hackathon-adidas/static/media/info.a97515b0.svg",
+    "static/media/leaf.png": "/4d-hackathon-adidas/static/media/leaf.00a28b60.png",
+    "static/media/page1.png": "/4d-hackathon-adidas/static/media/page1.d932c2dc.png",
+    "static/media/page2.png": "/4d-hackathon-adidas/static/media/page2.175aea10.png",
+    "static/media/page3.png": "/4d-hackathon-adidas/static/media/page3.ee764ff0.png",
+    "static/media/page4.png": "/4d-hackathon-adidas/static/media/page4.1a560ac7.png",
+    "static/media/page5.png": "/4d-hackathon-adidas/static/media/page5.7020236d.png",
+    "static/media/page6.png": "/4d-hackathon-adidas/static/media/page6.18931ec8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3370d72.js",
+    "static/js/2.6ecb3285.chunk.js",
+    "static/css/main.9972bb99.chunk.css",
+    "static/js/main.69cc5a1b.chunk.js"
+  ]
+}
